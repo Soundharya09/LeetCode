@@ -12,5 +12,9 @@ class Solution {
             }
         }
         return minLength != Integer.MAX_VALUE ? minLength : 0;
+        // if(minLength != Integer.MAX_VALUE){
+        //     return minLength;
+        // }
+        // else return 0;
     }
 }
