@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Soundharya09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Soundharya09/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Soundharya09/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Soundharya09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Soundharya09/LeetCode/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Soundharya09/LeetCode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
