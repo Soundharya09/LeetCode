@@ -12,6 +12,6 @@ class Solution {
                 left++; right--;
             }
         }
-        return String.valueOf(arr);
+        return new String(arr);
     }
 }
