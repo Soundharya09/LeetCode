@@ -1,22 +1,25 @@
 class Solution {
-    public int divide(int dividend, int divisor) {
-        if (dividend == Integer.MIN_VALUE && divisor == -1) {
+    public int divide(int a, int b) {
+        if (b == 1) {
+            return a;
+        }
+        if (a == Integer.MIN_VALUE && b == -1) {
             return Integer.MAX_VALUE;
         }
-        boolean negative = (dividend < 0) ^ (divisor < 0);
-        long longDividend = Math.abs((long) dividend);
-        long longDivisor = Math.abs((long) divisor);
-        int quotient = 0;
-        
-        while (longDividend >= longDivisor) {
-            long temp = longDivisor, multiple = 1;
-            while (longDividend >= (temp << 1)) {
-                temp <<= 1;
-                multiple <<= 1;
+        boolean sign = (a > 0 && b > 0) || (a < 0 && b < 0);
+        a = a > 0 ? -a : a;
+        b = b > 0 ? -b : b;
+        int ans = 0;
+        while (a <= b) {
+            int x = b;
+            int cnt = 1;
+            while (x >= (Integer.MIN_VALUE >> 1) && a <= (x << 1)) {
+                x <<= 1;
+                cnt <<= 1;
             }
-            longDividend -= temp;
-            quotient += multiple;
+            ans += cnt;
+            a -= x;
         }
-        return negative ? -quotient : quotient;
+        return sign ? ans : -ans;
     }
 }
