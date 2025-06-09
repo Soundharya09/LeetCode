@@ -2,8 +2,7 @@ class Solution {
     public String reverseVowels(String s) {
         char[] vowels = {'a','e','i','o','u','A','E','I','O','U'};
         char[] arr = s.toCharArray();
-        int n = arr.length;
-        int i = 0, j = n-1;
+        int n = arr.length; int i = 0, j = n-1;
         while(i < j){
             int ivowel = 0;
             while(ivowel < vowels.length && arr[i] != vowels[ivowel]) {
