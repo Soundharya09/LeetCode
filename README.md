@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Soundharya09/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Soundharya09/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
