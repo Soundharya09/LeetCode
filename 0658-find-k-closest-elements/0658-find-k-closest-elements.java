@@ -2,12 +2,14 @@ class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
         List<Integer> ans = new ArrayList<>();
         int n = arr.length;
+        //Base case 1 
         if(x < arr[0]) {
             for(int i = 0; i < k; i++) {
                 ans.add(arr[i]);
             }
             return ans;
         }
+        //Base case 2
         if(x > arr[n-1]) {
             for(int i = n-1; i >= n-k; i--) {
                 ans.add(arr[i]);
@@ -15,6 +17,7 @@ class Solution {
             Collections.sort(ans);
             return ans;
         }
+        //Applying Binary Search
         int lb = n, low = 0, high = n-1;
         while(low <= high) {
             int mid = low + (high - low) / 2;
