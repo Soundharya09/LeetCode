@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Soundharya09/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Soundharya09/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0889-buddy-strings](https://github.com/Soundharya09/LeetCode/tree/master/0889-buddy-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Soundharya09/LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/Soundharya09/LeetCode/tree/master/0649-dota2-senate) |
+| [0889-buddy-strings](https://github.com/Soundharya09/LeetCode/tree/master/0889-buddy-strings) |
 ## Greedy
 |  |
 | ------- |
