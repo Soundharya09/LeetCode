@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Soundharya09/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Soundharya09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Soundharya09/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Soundharya09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Soundharya09/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soundharya09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Soundharya09/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Soundharya09/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Soundharya09/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Soundharya09/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
@@ -366,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Soundharya09/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
