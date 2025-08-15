@@ -6,6 +6,7 @@ class Solution {
     }
     public int missingNumber(int[] nums) {
         int n = nums.length;
+        //Using Cyclic Sort
         int i = 0;
         while(i < n) {
             if(nums[i] == i || nums[i] == n) i++;
