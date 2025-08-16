@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Soundharya09/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/Soundharya09/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Soundharya09/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Soundharya09/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/Soundharya09/LeetCode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1448-maximum-69-number](https://github.com/Soundharya09/LeetCode/tree/master/1448-maximum-69-number) |
 ## Brainteaser
 |  |
 | ------- |
