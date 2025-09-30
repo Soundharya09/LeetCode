@@ -4,16 +4,16 @@ public class Solution {
         ListNode slow = head;
         ListNode fast = head;
         while(fast != null && fast.next != null) {
-            slow = slow.next; fast = fast.next.next;
-            if(slow == fast) {
-                ListNode temp = head;
-                while(temp != slow) {
-                    slow = slow.next; 
-                    temp = temp.next;
-                }
-                return slow;
-            }
+            slow = slow.next;
+            fast = fast.next.next;
+            if(fast == slow) break;
         }
-        return null; 
+        if(fast != slow) return null;
+        ListNode temp = head;
+        while(temp != slow) {
+            slow = slow.next;
+            temp = temp.next;
+        }
+        return slow;
     }
 }
