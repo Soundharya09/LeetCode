@@ -1,20 +1,34 @@
 class Solution {
+    public void reverseList(ListNode head) {
+        //Method - 1 -> Iterative Approach
+        ListNode curr = head;
+        ListNode prev = null, Next = null;
+        while(curr != null) {
+            Next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = Next;
+        }
+    }
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if(head == null || left == right) return head;
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode prev = dummy;
-        for(int i = 1; i < left; i++) {
-            prev = prev.next;
+        //Method - 1 -> Two Pass Solution
+        ListNode a = null, b = null, c = null, d = null;
+        int pos = 1;
+        ListNode temp = head;
+        while(temp != null) {
+            if(pos == left - 1) a = temp;
+            if(pos == left) b = temp;
+            if(pos == right) c = temp;
+            if(pos == right + 1) d = temp;
+            temp = temp.next;
+            pos++;
         }
-        ListNode start = prev.next;
-        ListNode current = start.next;
-        for(int i = 0; i < right - left; i++) {
-            start.next = current.next;
-            current.next = prev.next;
-            prev.next = current;
-            current = start.next;
-        }
-        return dummy.next;
+        if(a != null) a.next = null;
+        if(c != null) c.next = null;
+        reverseList(b);
+        if(a != null) a.next = c;
+        b.next = d;
+        if(a == null) return c;
+        return head;
     }
 }
