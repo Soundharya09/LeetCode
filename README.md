@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Soundharya09/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Soundharya09/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Soundharya09/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Soundharya09/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Soundharya09/LeetCode/tree/master/0889-buddy-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Soundharya09/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Soundharya09/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Soundharya09/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
