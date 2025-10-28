@@ -14,10 +14,8 @@ class Solution {
         roman.put(5, "V");
         roman.put(4, "IV");
         roman.put(1, "I");
-
         int[] values = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
         String res = "";
-        
         for(int value : values) {
             while(num >= value) {
                 res += roman.get(value);
