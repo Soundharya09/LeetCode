@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Soundharya09/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Soundharya09/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Soundharya09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Soundharya09/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Soundharya09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Soundharya09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Soundharya09/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Soundharya09/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Soundharya09/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Soundharya09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Soundharya09/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Soundharya09/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Soundharya09/LeetCode/tree/master/0069-sqrtx) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soundharya09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Soundharya09/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Soundharya09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Soundharya09/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Soundharya09/LeetCode/tree/master/0058-length-of-last-word) |
