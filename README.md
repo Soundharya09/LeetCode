@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Soundharya09/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Soundharya09/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Soundharya09/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Soundharya09/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Soundharya09/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Soundharya09/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Soundharya09/LeetCode/tree/master/0326-power-of-three) |
