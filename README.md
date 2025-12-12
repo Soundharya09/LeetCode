@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0889-buddy-strings](https://github.com/Soundharya09/LeetCode/tree/master/0889-buddy-strings) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Soundharya09/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Soundharya09/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
