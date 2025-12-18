@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Soundharya09/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Soundharya09/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Soundharya09/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Soundharya09/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Soundharya09/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -620,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Soundharya09/LeetCode/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Soundharya09/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
