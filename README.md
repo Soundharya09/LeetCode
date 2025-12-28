@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Soundharya09/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Soundharya09/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Soundharya09/LeetCode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Soundharya09/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Stack
@@ -648,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Soundharya09/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
