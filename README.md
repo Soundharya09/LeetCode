@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Soundharya09/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Soundharya09/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0890-lemonade-change](https://github.com/Soundharya09/LeetCode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0898-transpose-matrix) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -654,4 +657,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
