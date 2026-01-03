@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2386-min-max-game](https://github.com/Soundharya09/LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soundharya09/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soundharya09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Soundharya09/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Soundharya09/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soundharya09/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/Soundharya09/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Soundharya09/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Soundharya09/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
