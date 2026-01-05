@@ -6,8 +6,7 @@ class Solution {
             int[] count = new int[26];
             for(char c : ch) count[c - 'a']++;
             String key = Arrays.toString(count);
-            ans.putIfAbsent(key, new ArrayList<>());
-            ans.get(key).add(s);
+            ans.computeIfAbsent(key, k -> new ArrayList<>()).add(s);
         }
         return new ArrayList<>(ans.values());
     }
