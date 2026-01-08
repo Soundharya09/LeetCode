@@ -3,9 +3,7 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
         int[][] dp = new int[m + 1][n + 1];
-        for(int[] row : dp) {
-            Arrays.fill(row, Integer.MIN_VALUE);
-        }
+        for(int[] row : dp) Arrays.fill(row, Integer.MIN_VALUE);
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 int product = nums1[i] * nums2[j];
