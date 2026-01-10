@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Soundharya09/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Soundharya09/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Soundharya09/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Soundharya09/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Soundharya09/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Soundharya09/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Soundharya09/LeetCode/tree/master/0258-add-digits) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Soundharya09/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Soundharya09/LeetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Soundharya09/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
