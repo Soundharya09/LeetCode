@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soundharya09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Soundharya09/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0233-number-of-digit-one](https://github.com/Soundharya09/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/Soundharya09/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Soundharya09/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Soundharya09/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Soundharya09/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Soundharya09/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Soundharya09/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Soundharya09/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Soundharya09/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
