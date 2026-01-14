@@ -29,20 +29,20 @@ class Solution {
             if (L > r || R < l) return;
             int m = (L + R) / 2;
 
-            if (l <= L && R <= r) {
-                tree[i].cnt += d;
-            } else {
+            if (l <= L && R <= r) tree[i].cnt += d;
+            else {
                 update(l, r, d, i*2, L, m);
                 update(l, r, d, i*2+1, m+1, R);
             }
-
             if (tree[i].cnt > 0) {
                 tree[i].len = vals[R] - vals[L] + 1;
                 tree[i].left = tree[i].right = true;
-            } else if (L == R) {
+            } 
+            else if (L == R) {
                 tree[i].len = 0;
                 tree[i].left = tree[i].right = false;
-            } else {
+            } 
+            else {
                 tree[i].len = tree[i*2].len + tree[i*2+1].len;
                 if (tree[i*2].right && tree[i*2+1].left)
                     tree[i].len += vals[m+1] - vals[m] - 1;
@@ -50,12 +50,10 @@ class Solution {
                 tree[i].right = tree[i*2+1].right;
             }
         }
-
         int covered() {
             return tree[1].len;
         }
     }
-
     public double separateSquares(int[][] squares) {
         TreeSet<Integer> xs = new TreeSet<>();
         for (int[] s : squares) {
@@ -64,7 +62,6 @@ class Solution {
             xs.add(s[0] + s[2] - 1);
             xs.add(s[0] + s[2]);
         }
-
         Map<Integer,Integer> map = new HashMap<>();
         int id = 0;
         for (int x : xs) map.put(x, id++);
