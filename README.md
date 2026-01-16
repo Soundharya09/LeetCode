@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Soundharya09/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soundharya09/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Soundharya09/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
 | [3453-separate-squares-i](https://github.com/Soundharya09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soundharya09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Soundharya09/LeetCode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Number Theory
 |  |
 | ------- |
