@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Soundharya09/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
 | [3453-separate-squares-i](https://github.com/Soundharya09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Soundharya09/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
 |  |
 | ------- |
