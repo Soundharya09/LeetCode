@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soundharya09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Soundharya09/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soundharya09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Soundharya09/LeetCode/tree/master/2386-min-max-game) |
 | [3174-clear-digits](https://github.com/Soundharya09/LeetCode/tree/master/3174-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Soundharya09/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sorting
 |  |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soundharya09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Soundharya09/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Soundharya09/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -792,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Soundharya09/LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Trie
 |  |
 | ------- |
