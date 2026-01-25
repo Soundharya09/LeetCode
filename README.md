@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Soundharya09/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Soundharya09/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/Soundharya09/LeetCode/tree/master/0901-online-stock-span) |
 | [3174-clear-digits](https://github.com/Soundharya09/LeetCode/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/Soundharya09/LeetCode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Soundharya09/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Soundharya09/LeetCode/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Soundharya09/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Soundharya09/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Soundharya09/LeetCode/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Soundharya09/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
 ## Counting
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Soundharya09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Soundharya09/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/Soundharya09/LeetCode/tree/master/0901-online-stock-span) |
 ## Line Sweep
 |  |
 | ------- |
