@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Soundharya09/LeetCode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Soundharya09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Soundharya09/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0414-third-maximum-number](https://github.com/Soundharya09/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Soundharya09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Soundharya09/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Soundharya09/LeetCode/tree/master/0460-lfu-cache) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Soundharya09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Soundharya09/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Soundharya09/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Soundharya09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Soundharya09/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0412-fizz-buzz](https://github.com/Soundharya09/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Soundharya09/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Soundharya09/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Soundharya09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Soundharya09/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Soundharya09/LeetCode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Soundharya09/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Soundharya09/LeetCode/tree/master/0901-online-stock-span) |
@@ -867,4 +871,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Soundharya09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Soundharya09/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
