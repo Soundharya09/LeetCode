@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Soundharya09/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Soundharya09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Backtracking
 |  |
 | ------- |
@@ -880,4 +881,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Soundharya09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Soundharya09/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Soundharya09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Soundharya09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
