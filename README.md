@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
+| [1929-concatenation-of-array](https://github.com/Soundharya09/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Soundharya09/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Soundharya09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Soundharya09/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-count-of-matches-in-tournament](https://github.com/Soundharya09/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/Soundharya09/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2043-simple-bank-system](https://github.com/Soundharya09/LeetCode/tree/master/2043-simple-bank-system) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Soundharya09/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
