@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soundharya09/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Soundharya09/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Soundharya09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Soundharya09/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Soundharya09/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Soundharya09/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Soundharya09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3174-clear-digits](https://github.com/Soundharya09/LeetCode/tree/master/3174-clear-digits) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
@@ -911,9 +913,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Soundharya09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Soundharya09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Soundharya09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Soundharya09/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
