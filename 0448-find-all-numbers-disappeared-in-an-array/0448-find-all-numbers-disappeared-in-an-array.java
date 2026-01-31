@@ -8,7 +8,7 @@ class Solution {
         int n = nums.length;
         int i = 0;
         while(i < n) {
-            int ele = nums[i]; //ele shoulb be at ele-1 idx
+            int ele = nums[i]; 
             if(nums[i] == i+1 || nums[i] == nums[ele - 1]) i++;
             else swap(i, ele-1, nums);
         }
