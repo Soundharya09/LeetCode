@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Soundharya09/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3637-trionic-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Soundharya09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Soundharya09/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
