@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Soundharya09/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3637-trionic-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Soundharya09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Soundharya09/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Soundharya09/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Soundharya09/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Soundharya09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Divide and Conquer
 |  |
