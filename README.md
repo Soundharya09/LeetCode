@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/Soundharya09/LeetCode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Soundharya09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soundharya09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Soundharya09/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/Soundharya09/LeetCode/tree/master/2386-min-max-game) |
 | [3174-clear-digits](https://github.com/Soundharya09/LeetCode/tree/master/3174-clear-digits) |
+| [3379-transformed-array](https://github.com/Soundharya09/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Soundharya09/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
