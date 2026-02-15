@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Soundharya09/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Soundharya09/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Soundharya09/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Soundharya09/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Soundharya09/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Soundharya09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Soundharya09/LeetCode/tree/master/0089-gray-code) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Soundharya09/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Soundharya09/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Soundharya09/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Soundharya09/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Soundharya09/LeetCode/tree/master/0136-single-number) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Soundharya09/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Soundharya09/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Soundharya09/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Soundharya09/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Soundharya09/LeetCode/tree/master/0412-fizz-buzz) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Soundharya09/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Soundharya09/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Soundharya09/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Soundharya09/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Soundharya09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Soundharya09/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Soundharya09/LeetCode/tree/master/0205-isomorphic-strings) |
