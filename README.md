@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/Soundharya09/LeetCode/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Soundharya09/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0831-masking-personal-information](https://github.com/Soundharya09/LeetCode/tree/master/0831-masking-personal-information) |
 | [0889-buddy-strings](https://github.com/Soundharya09/LeetCode/tree/master/0889-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Soundharya09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
