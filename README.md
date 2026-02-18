@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Soundharya09/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Soundharya09/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Soundharya09/LeetCode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Soundharya09/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
