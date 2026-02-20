@@ -6,17 +6,17 @@ class MyCircularQueue {
     private int capacity;
 
     public MyCircularQueue(int k) {
-        capacity = k;
         data = new int[k];
         head = 0;
-        tail = -1;
+        tail = 0;
         size = 0;
+        capacity = k;
     }
     
     public boolean enQueue(int value) {
         if (isFull()) return false;
-        tail = (tail + 1) % capacity;
         data[tail] = value;
+        tail = (tail + 1) % capacity;
         size++;
         return true;
     }
@@ -29,11 +29,13 @@ class MyCircularQueue {
     }
     
     public int Front() {
-         return isEmpty() ? -1 : data[head];
+        if (isEmpty()) return -1;
+        return data[head];
     }
     
     public int Rear() {
-        return isEmpty() ? -1 : data[tail];
+         if (isEmpty()) return -1;
+        return data[(tail - 1 + capacity) % capacity];
     }
     
     public boolean isEmpty() {
