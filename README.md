@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Soundharya09/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soundharya09/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/Soundharya09/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1732-find-the-highest-altitude](https://github.com/Soundharya09/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Soundharya09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/Soundharya09/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Soundharya09/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/Soundharya09/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3714-longest-balanced-substring-ii](https://github.com/Soundharya09/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
