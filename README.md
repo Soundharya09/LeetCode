@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/Soundharya09/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Soundharya09/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Soundharya09/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/Soundharya09/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/Soundharya09/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Soundharya09/LeetCode/tree/master/1656-count-good-triplets) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/Soundharya09/LeetCode/tree/master/1476-subrectangle-queries) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Soundharya09/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Soundharya09/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Soundharya09/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Soundharya09/LeetCode/tree/master/1448-maximum-69-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Soundharya09/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soundharya09/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/Soundharya09/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1975-maximum-matrix-sum](https://github.com/Soundharya09/LeetCode/tree/master/1975-maximum-matrix-sum) |
