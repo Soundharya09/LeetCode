@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Soundharya09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Soundharya09/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0414-third-maximum-number](https://github.com/Soundharya09/LeetCode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Soundharya09/LeetCode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Soundharya09/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0367-valid-perfect-square](https://github.com/Soundharya09/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0436-find-right-interval](https://github.com/Soundharya09/LeetCode/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Soundharya09/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Soundharya09/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Soundharya09/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Soundharya09/LeetCode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Soundharya09/LeetCode/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Soundharya09/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Soundharya09/LeetCode/tree/master/0658-find-k-closest-elements) |
