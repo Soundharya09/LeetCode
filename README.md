@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Soundharya09/LeetCode/tree/master/0932-beautiful-array) |
 | [0941-sort-array-by-parity](https://github.com/Soundharya09/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Soundharya09/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Soundharya09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Soundharya09/LeetCode/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Soundharya09/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Soundharya09/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Soundharya09/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0932-beautiful-array](https://github.com/Soundharya09/LeetCode/tree/master/0932-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
