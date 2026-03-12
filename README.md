@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Soundharya09/LeetCode/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Soundharya09/LeetCode/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/Soundharya09/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Soundharya09/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Soundharya09/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Soundharya09/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/Soundharya09/LeetCode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Soundharya09/LeetCode/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/Soundharya09/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Soundharya09/LeetCode/tree/master/0520-detect-capital) |
