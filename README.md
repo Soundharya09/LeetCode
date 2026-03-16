@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/Soundharya09/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1732-find-the-highest-altitude](https://github.com/Soundharya09/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Soundharya09/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Soundharya09/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Soundharya09/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Soundharya09/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/Soundharya09/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Soundharya09/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Soundharya09/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-count-of-matches-in-tournament](https://github.com/Soundharya09/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Soundharya09/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Soundharya09/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Soundharya09/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Soundharya09/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Soundharya09/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Soundharya09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soundharya09/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Soundharya09/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Soundharya09/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Soundharya09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -975,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Soundharya09/LeetCode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Soundharya09/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/Soundharya09/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Soundharya09/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Soundharya09/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
