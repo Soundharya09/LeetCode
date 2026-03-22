@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
 | [1046-last-stone-weight](https://github.com/Soundharya09/LeetCode/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/Soundharya09/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Soundharya09/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/Soundharya09/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Soundharya09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Soundharya09/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Soundharya09/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/Soundharya09/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Soundharya09/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Soundharya09/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Soundharya09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
