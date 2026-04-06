@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Soundharya09/LeetCode/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Soundharya09/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/Soundharya09/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Soundharya09/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0890-lemonade-change](https://github.com/Soundharya09/LeetCode/tree/master/0890-lemonade-change) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Soundharya09/LeetCode/tree/master/0645-set-mismatch) |
 | [0815-bus-routes](https://github.com/Soundharya09/LeetCode/tree/master/0815-bus-routes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Soundharya09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Soundharya09/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0889-buddy-strings](https://github.com/Soundharya09/LeetCode/tree/master/0889-buddy-strings) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Soundharya09/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Soundharya09/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Soundharya09/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/Soundharya09/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Soundharya09/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
