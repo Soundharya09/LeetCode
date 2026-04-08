@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Soundharya09/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2043-simple-bank-system](https://github.com/Soundharya09/LeetCode/tree/master/2043-simple-bank-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Soundharya09/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Soundharya09/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Soundharya09/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Soundharya09/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Soundharya09/LeetCode/tree/master/1622-fancy-sequence) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
 | [2043-simple-bank-system](https://github.com/Soundharya09/LeetCode/tree/master/2043-simple-bank-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Soundharya09/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Queue
