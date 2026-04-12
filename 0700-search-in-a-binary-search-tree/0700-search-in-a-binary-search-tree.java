@@ -15,12 +15,18 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        TreeNode curr = root;
-        while(curr != null) {
-            if(curr.val == val) return curr;
-            else if(val < curr.val) curr = curr.left;
-            else curr = curr.right;
-        }
-        return null;
+        // Approach - 1 -> Iterative Approach
+        // TreeNode curr = root;
+        // while(curr != null) {
+        //     if(curr.val == val) return curr;
+        //     else if(val < curr.val) curr = curr.left;
+        //     else curr = curr.right;
+        // }
+        // return null;
+
+        // Approach - 2 -> Recursive Approach
+        if(root == null || root.val == val) return root;
+        if(val < root.val) return searchBST(root.left, val);
+        return searchBST(root.right, val);
     }
 }
