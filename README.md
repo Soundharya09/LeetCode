@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Soundharya09/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Soundharya09/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Soundharya09/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Soundharya09/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Soundharya09/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Soundharya09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Soundharya09/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soundharya09/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3174-clear-digits](https://github.com/Soundharya09/LeetCode/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Soundharya09/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Soundharya09/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Soundharya09/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Soundharya09/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1165,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Soundharya09/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1173,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/Soundharya09/LeetCode/tree/master/0715-range-module) |
 | [1622-fancy-sequence](https://github.com/Soundharya09/LeetCode/tree/master/1622-fancy-sequence) |
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Soundharya09/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Soundharya09/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1317,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Soundharya09/LeetCode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Soundharya09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Line Sweep
 |  |
 | ------- |
