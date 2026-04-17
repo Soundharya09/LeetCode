@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Soundharya09/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Soundharya09/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Soundharya09/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Soundharya09/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/Soundharya09/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Soundharya09/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Soundharya09/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Soundharya09/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Soundharya09/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Soundharya09/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
 | ------- |
