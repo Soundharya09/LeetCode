@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/Soundharya09/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soundharya09/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soundharya09/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Soundharya09/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Soundharya09/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Soundharya09/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1344,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Soundharya09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Soundharya09/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Soundharya09/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Soundharya09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Soundharya09/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Soundharya09/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1365,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Soundharya09/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Soundharya09/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Soundharya09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Soundharya09/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Soundharya09/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Soundharya09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Soundharya09/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -1424,9 +1427,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Soundharya09/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Soundharya09/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Suffix Array
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Soundharya09/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Soundharya09/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
