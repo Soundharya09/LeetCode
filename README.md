@@ -1035,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Soundharya09/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Soundharya09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Soundharya09/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Soundharya09/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Soundharya09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Soundharya09/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Soundharya09/LeetCode/tree/master/0743-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Soundharya09/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Soundharya09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Soundharya09/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Soundharya09/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Soundharya09/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
