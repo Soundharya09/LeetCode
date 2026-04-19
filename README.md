@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Soundharya09/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Soundharya09/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Soundharya09/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Soundharya09/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Soundharya09/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Soundharya09/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Soundharya09/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Soundharya09/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Soundharya09/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Soundharya09/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Soundharya09/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
