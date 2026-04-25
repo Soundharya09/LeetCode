@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Soundharya09/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Soundharya09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3479-fruits-into-baskets-iii](https://github.com/Soundharya09/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/Soundharya09/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soundharya09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Soundharya09/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Soundharya09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3479-fruits-into-baskets-iii](https://github.com/Soundharya09/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/Soundharya09/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Soundharya09/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Soundharya09/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Soundharya09/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Soundharya09/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Soundharya09/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Soundharya09/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Soundharya09/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Soundharya09/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Soundharya09/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1344,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Soundharya09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Soundharya09/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Interactive
 |  |
 | ------- |
