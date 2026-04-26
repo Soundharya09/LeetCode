@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Soundharya09/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Soundharya09/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Soundharya09/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Soundharya09/LeetCode/tree/master/0622-design-circular-queue) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Soundharya09/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/Soundharya09/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Soundharya09/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Soundharya09/LeetCode/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Soundharya09/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Soundharya09/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/Soundharya09/LeetCode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Soundharya09/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Soundharya09/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
