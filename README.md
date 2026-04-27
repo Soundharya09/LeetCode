@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Soundharya09/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Soundharya09/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Soundharya09/LeetCode/tree/master/1448-maximum-69-number) |
+| [1492-the-kth-factor-of-n](https://github.com/Soundharya09/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Soundharya09/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1622-fancy-sequence](https://github.com/Soundharya09/LeetCode/tree/master/1622-fancy-sequence) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Soundharya09/LeetCode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Soundharya09/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1492-the-kth-factor-of-n](https://github.com/Soundharya09/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Soundharya09/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Soundharya09/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
