@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soundharya09/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Soundharya09/LeetCode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Soundharya09/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Soundharya09/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/Soundharya09/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Soundharya09/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Soundharya09/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Soundharya09/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Soundharya09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Soundharya09/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Soundharya09/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Soundharya09/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Soundharya09/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Soundharya09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1404,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Soundharya09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Soundharya09/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Soundharya09/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Soundharya09/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Soundharya09/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
