@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Soundharya09/LeetCode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Soundharya09/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/Soundharya09/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Soundharya09/LeetCode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Soundharya09/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Soundharya09/LeetCode/tree/master/0913-cat-and-mouse) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Soundharya09/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Soundharya09/LeetCode/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/Soundharya09/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Soundharya09/LeetCode/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Soundharya09/LeetCode/tree/master/0877-stone-game) |
