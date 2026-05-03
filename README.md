@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Soundharya09/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Soundharya09/LeetCode/tree/master/2615-sum-of-distances) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Soundharya09/LeetCode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Soundharya09/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
