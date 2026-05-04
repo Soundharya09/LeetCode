@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soundharya09/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Soundharya09/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Soundharya09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Soundharya09/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Soundharya09/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Soundharya09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0054-spiral-matrix) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Soundharya09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Soundharya09/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Soundharya09/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Soundharya09/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Soundharya09/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Soundharya09/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Soundharya09/LeetCode/tree/master/0066-plus-one) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Soundharya09/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Soundharya09/LeetCode/tree/master/0073-set-matrix-zeroes) |
