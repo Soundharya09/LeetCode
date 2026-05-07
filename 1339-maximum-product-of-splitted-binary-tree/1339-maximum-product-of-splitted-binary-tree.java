@@ -19,6 +19,5 @@ class Solution {
         totalSum = getTotal(root);
         dfs(root);
         return (int)(maxProd % MOD);
-
     }
 }
