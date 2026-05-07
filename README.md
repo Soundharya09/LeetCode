@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Soundharya09/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Soundharya09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Soundharya09/LeetCode/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Soundharya09/LeetCode/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/Soundharya09/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Soundharya09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Soundharya09/LeetCode/tree/master/0645-set-mismatch) |
 | [0815-bus-routes](https://github.com/Soundharya09/LeetCode/tree/master/0815-bus-routes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Soundharya09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Soundharya09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Soundharya09/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Soundharya09/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Soundharya09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Soundharya09/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Soundharya09/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
