@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Soundharya09/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Soundharya09/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Soundharya09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soundharya09/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Soundharya09/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Soundharya09/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Soundharya09/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soundharya09/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Soundharya09/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Soundharya09/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Soundharya09/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Soundharya09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soundharya09/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Soundharya09/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Soundharya09/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
