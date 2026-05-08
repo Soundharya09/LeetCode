@@ -1,55 +1,68 @@
 class Solution {
-    private static final int MX = 1000001;
-    private static final List<Integer>[] factors = new ArrayList[MX];
+    private static final int MX = 1_000_001;
+    private static final int[] spf = new int[MX];
     static {
-        for (int i = 0; i < MX; i++) factors[i] = new ArrayList<>();
-        for (int i = 2; i < MX; i++) {
-            if (factors[i].isEmpty()) {
-                for (int j = i; j < MX; j += i) factors[j].add(i);
+        for (int i = 0; i < MX; i++) spf[i] = i;
+        for (int i = 2; (long) i * i < MX; i++) {
+            if (spf[i] == i) {
+                for (int j = i * i; j < MX; j += i) {
+                    if (spf[j] == j) spf[j] = i;
+                }
             }
         }
     }
 
     public int minJumps(int[] nums) {
         int n = nums.length;
-        Map<Integer, List<Integer>> edges = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            int a = nums[i];
-            if (factors[a].size() == 1) {
-                edges.computeIfAbsent(a, k -> new ArrayList<>()).add(i);
+        if (n == 1) return 0;
+
+        Map<Integer, List<Integer>> bucket = new HashMap<>();
+        for (int j = 0; j < n; j++) {
+            int x = nums[j];
+            while (x > 1) {
+                int p = spf[x];
+                bucket.computeIfAbsent(p, k -> new ArrayList<>()).add(j);
+                while (x % p == 0) x /= p;
             }
         }
-        int res = 0;
+
+        int[] q = new int[n];
+        int head = 0, tail = 0;
         boolean[] seen = new boolean[n];
-        seen[n - 1] = true;
-        List<Integer> q = new ArrayList<>();
-        q.add(n - 1);
-        while (true) {
-            List<Integer> q2 = new ArrayList<>();
-            for (int i : q) {
-                if (i == 0) return res;
+        seen[0] = true;
+        q[tail++] = 0;
+
+        int steps = 0;
+        while (head < tail) {
+            int size = tail - head;
+            while (size-- > 0) {
+                int i = q[head++];
+                if (i == n - 1) return steps;
+
                 if (i > 0 && !seen[i - 1]) {
                     seen[i - 1] = true;
-                    q2.add(i - 1);
+                    q[tail++] = i - 1;
                 }
-                if (i < n - 1 && !seen[i + 1]) {
+                if (i + 1 < n && !seen[i + 1]) {
                     seen[i + 1] = true;
-                    q2.add(i + 1);
+                    q[tail++] = i + 1;
                 }
-                for (int p : factors[nums[i]]) {
-                    if (edges.containsKey(p)) {
-                        for (int j : edges.get(p)) {
+
+                int val = nums[i];
+                if (val > 1 && spf[val] == val) {
+                    List<Integer> targets = bucket.remove(val);
+                    if (targets != null) {
+                        for (int j : targets) {
                             if (!seen[j]) {
                                 seen[j] = true;
-                                q2.add(j);
+                                q[tail++] = j;
                             }
                         }
-                        edges.get(p).clear();
                     }
                 }
             }
-            q = q2;
-            res++;
+            steps++;
         }
+        return -1;
     }
 }
