@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Soundharya09/LeetCode/tree/master/2615-sum-of-distances) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Soundharya09/LeetCode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Soundharya09/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Soundharya09/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Soundharya09/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Soundharya09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soundharya09/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Soundharya09/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Soundharya09/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Soundharya09/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
