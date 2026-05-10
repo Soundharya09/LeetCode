@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soundharya09/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Soundharya09/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Soundharya09/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Soundharya09/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Soundharya09/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -1230,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Soundharya09/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Soundharya09/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Soundharya09/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Soundharya09/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Soundharya09/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Soundharya09/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Soundharya09/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Soundharya09/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Soundharya09/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -1562,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Soundharya09/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Soundharya09/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/Soundharya09/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Soundharya09/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Soundharya09/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Soundharya09/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
