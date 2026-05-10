@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Soundharya09/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Soundharya09/LeetCode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Soundharya09/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Soundharya09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Soundharya09/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
