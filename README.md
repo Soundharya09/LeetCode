@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
 | [1980-find-unique-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/Soundharya09/LeetCode/tree/master/2043-simple-bank-system) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Soundharya09/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soundharya09/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Soundharya09/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soundharya09/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Soundharya09/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Soundharya09/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Soundharya09/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Soundharya09/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Soundharya09/LeetCode/tree/master/1656-count-good-triplets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Soundharya09/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2083-three-divisors](https://github.com/Soundharya09/LeetCode/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Soundharya09/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1160,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Soundharya09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soundharya09/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Soundharya09/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/Soundharya09/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Soundharya09/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -1344,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Soundharya09/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Soundharya09/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Soundharya09/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Binary Indexed Tree
 |  |
