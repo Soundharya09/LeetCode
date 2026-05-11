@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Soundharya09/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Soundharya09/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2463-minimum-total-distance-traveled](https://github.com/Soundharya09/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2488-count-subarrays-with-median-k](https://github.com/Soundharya09/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Soundharya09/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soundharya09/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2488-count-subarrays-with-median-k](https://github.com/Soundharya09/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Soundharya09/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2615-sum-of-distances](https://github.com/Soundharya09/LeetCode/tree/master/2615-sum-of-distances) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Soundharya09/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Soundharya09/LeetCode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/Soundharya09/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2488-count-subarrays-with-median-k](https://github.com/Soundharya09/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [2615-sum-of-distances](https://github.com/Soundharya09/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Soundharya09/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Soundharya09/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
