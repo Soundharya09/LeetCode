@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Soundharya09/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Soundharya09/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Soundharya09/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Soundharya09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Soundharya09/LeetCode/tree/master/0078-subsets) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Soundharya09/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Soundharya09/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Soundharya09/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Soundharya09/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Soundharya09/LeetCode/tree/master/0412-fizz-buzz) |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Soundharya09/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Soundharya09/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Soundharya09/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Soundharya09/LeetCode/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/Soundharya09/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Soundharya09/LeetCode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Soundharya09/LeetCode/tree/master/0127-word-ladder) |
