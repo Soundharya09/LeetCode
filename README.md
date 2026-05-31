@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Soundharya09/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2126-destroying-asteroids](https://github.com/Soundharya09/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Soundharya09/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Soundharya09/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soundharya09/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Soundharya09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1998-gcd-sort-of-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soundharya09/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/Soundharya09/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/Soundharya09/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Soundharya09/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Soundharya09/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Soundharya09/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Soundharya09/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Soundharya09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soundharya09/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
