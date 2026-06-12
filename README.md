@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Soundharya09/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Soundharya09/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Soundharya09/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Soundharya09/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Soundharya09/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Soundharya09/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Soundharya09/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Soundharya09/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Soundharya09/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Soundharya09/LeetCode/tree/master/3660-jump-game-ix) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Soundharya09/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Soundharya09/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Soundharya09/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Soundharya09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Soundharya09/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Soundharya09/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Soundharya09/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1288,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/Soundharya09/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Soundharya09/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Soundharya09/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Soundharya09/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1328,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Soundharya09/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Soundharya09/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Soundharya09/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Soundharya09/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
