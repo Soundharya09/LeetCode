@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Soundharya09/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Soundharya09/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1189-maximum-number-of-balloons](https://github.com/Soundharya09/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Soundharya09/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Soundharya09/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Soundharya09/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Soundharya09/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Soundharya09/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/Soundharya09/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Soundharya09/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Soundharya09/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Soundharya09/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soundharya09/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Soundharya09/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
