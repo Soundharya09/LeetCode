@@ -1565,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Soundharya09/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Soundharya09/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Soundharya09/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Soundharya09/LeetCode/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/Soundharya09/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Soundharya09/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Soundharya09/LeetCode/tree/master/0197-rising-temperature) |
