@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Soundharya09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Soundharya09/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/Soundharya09/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Soundharya09/LeetCode/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Soundharya09/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1340-jump-game-v](https://github.com/Soundharya09/LeetCode/tree/master/1340-jump-game-v) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Soundharya09/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Soundharya09/LeetCode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1301-number-of-paths-with-max-score](https://github.com/Soundharya09/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Soundharya09/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Soundharya09/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Soundharya09/LeetCode/tree/master/1340-jump-game-v) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Soundharya09/LeetCode/tree/master/0994-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Soundharya09/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/Soundharya09/LeetCode/tree/master/1476-subrectangle-queries) |
