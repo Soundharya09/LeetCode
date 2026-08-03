@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Soundharya09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Soundharya09/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Soundharya09/LeetCode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Soundharya09/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Soundharya09/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Soundharya09/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
