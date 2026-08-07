@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Soundharya09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Soundharya09/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Soundharya09/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Soundharya09/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Soundharya09/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Soundharya09/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Soundharya09/LeetCode/tree/master/0118-pascals-triangle) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Soundharya09/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Soundharya09/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Soundharya09/LeetCode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/Soundharya09/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Soundharya09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Soundharya09/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Soundharya09/LeetCode/tree/master/0097-interleaving-string) |
