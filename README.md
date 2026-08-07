@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Soundharya09/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Soundharya09/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Soundharya09/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Soundharya09/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Soundharya09/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Soundharya09/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Soundharya09/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Soundharya09/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/Soundharya09/LeetCode/tree/master/3174-clear-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Soundharya09/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Soundharya09/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Soundharya09/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Soundharya09/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1231,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soundharya09/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Soundharya09/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Soundharya09/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Soundharya09/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Soundharya09/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Soundharya09/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1330,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Soundharya09/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Soundharya09/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Soundharya09/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Soundharya09/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Soundharya09/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Soundharya09/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Soundharya09/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1636,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Soundharya09/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Soundharya09/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Soundharya09/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
