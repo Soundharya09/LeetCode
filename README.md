@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Soundharya09/LeetCode/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Soundharya09/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Soundharya09/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Soundharya09/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Soundharya09/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Soundharya09/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Soundharya09/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Soundharya09/LeetCode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Soundharya09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Soundharya09/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Soundharya09/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Soundharya09/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/Soundharya09/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Soundharya09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Soundharya09/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -1260,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Soundharya09/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Soundharya09/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Soundharya09/LeetCode/tree/master/1406-stone-game-iii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Soundharya09/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Linked List
@@ -1966,4 +1971,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Soundharya09/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Soundharya09/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
