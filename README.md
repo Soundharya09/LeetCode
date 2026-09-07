@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Soundharya09/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Soundharya09/LeetCode/tree/master/0913-cat-and-mouse) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Soundharya09/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Soundharya09/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/Soundharya09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Soundharya09/LeetCode/tree/master/1086-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Soundharya09/LeetCode/tree/master/1140-stone-game-ii) |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Soundharya09/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Soundharya09/LeetCode/tree/master/0831-masking-personal-information) |
 | [0889-buddy-strings](https://github.com/Soundharya09/LeetCode/tree/master/0889-buddy-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Soundharya09/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Soundharya09/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Soundharya09/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
