@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Soundharya09/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Soundharya09/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1768-merge-strings-alternately](https://github.com/Soundharya09/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Soundharya09/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Soundharya09/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Soundharya09/LeetCode/tree/master/1861-rotating-the-box) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/Soundharya09/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soundharya09/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/Soundharya09/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Soundharya09/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Soundharya09/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Soundharya09/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
