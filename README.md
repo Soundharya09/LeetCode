@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Soundharya09/LeetCode/tree/master/0792-binary-search) |
 | [0812-largest-triangle-area](https://github.com/Soundharya09/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0815-bus-routes](https://github.com/Soundharya09/LeetCode/tree/master/0815-bus-routes) |
+| [0835-image-overlap](https://github.com/Soundharya09/LeetCode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Soundharya09/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Soundharya09/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Soundharya09/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Soundharya09/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0835-image-overlap](https://github.com/Soundharya09/LeetCode/tree/master/0835-image-overlap) |
 | [0861-flipping-an-image](https://github.com/Soundharya09/LeetCode/tree/master/0861-flipping-an-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Soundharya09/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-score-after-flipping-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0891-score-after-flipping-matrix) |
