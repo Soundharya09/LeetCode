@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Soundharya09/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Soundharya09/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Soundharya09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Soundharya09/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Soundharya09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Soundharya09/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Soundharya09/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Soundharya09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Soundharya09/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Soundharya09/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Soundharya09/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Soundharya09/LeetCode/tree/master/0289-game-of-life) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Soundharya09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Soundharya09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Soundharya09/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Soundharya09/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Soundharya09/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Soundharya09/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Soundharya09/LeetCode/tree/master/0242-valid-anagram) |
@@ -1846,6 +1849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Soundharya09/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Soundharya09/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Soundharya09/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0212-word-search-ii](https://github.com/Soundharya09/LeetCode/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Soundharya09/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Soundharya09/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1996,6 +2000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Soundharya09/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Soundharya09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Soundharya09/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Soundharya09/LeetCode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Soundharya09/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
