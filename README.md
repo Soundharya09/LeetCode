@@ -1881,6 +1881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Soundharya09/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Soundharya09/LeetCode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Soundharya09/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Soundharya09/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Soundharya09/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Soundharya09/LeetCode/tree/master/0089-gray-code) |
@@ -2295,4 +2296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Soundharya09/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
