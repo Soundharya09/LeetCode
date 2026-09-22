@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Soundharya09/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/Soundharya09/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2386-min-max-game](https://github.com/Soundharya09/LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Soundharya09/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soundharya09/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Soundharya09/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2488-count-subarrays-with-median-k](https://github.com/Soundharya09/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Soundharya09/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2540-minimum-common-value](https://github.com/Soundharya09/LeetCode/tree/master/2540-minimum-common-value) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Soundharya09/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soundharya09/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Soundharya09/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Soundharya09/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -1120,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Soundharya09/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Soundharya09/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Soundharya09/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/Soundharya09/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2386-min-max-game](https://github.com/Soundharya09/LeetCode/tree/master/2386-min-max-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
