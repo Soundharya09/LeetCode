@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Soundharya09/LeetCode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Soundharya09/LeetCode/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/Soundharya09/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0436-find-right-interval](https://github.com/Soundharya09/LeetCode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Soundharya09/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Soundharya09/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Soundharya09/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Soundharya09/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Soundharya09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0912-sort-an-array) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Soundharya09/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Soundharya09/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Soundharya09/LeetCode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/Soundharya09/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Soundharya09/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Soundharya09/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/Soundharya09/LeetCode/tree/master/0835-image-overlap) |
@@ -1667,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Soundharya09/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soundharya09/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/Soundharya09/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Soundharya09/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Soundharya09/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Soundharya09/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
