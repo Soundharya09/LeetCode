@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/Soundharya09/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Soundharya09/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Soundharya09/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Soundharya09/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Soundharya09/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Soundharya09/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Soundharya09/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Soundharya09/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Soundharya09/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1096-brace-expansion-ii](https://github.com/Soundharya09/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Soundharya09/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1288-remove-covered-intervals](https://github.com/Soundharya09/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Soundharya09/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Soundharya09/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Soundharya09/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Soundharya09/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Soundharya09/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Soundharya09/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1558,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Soundharya09/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Soundharya09/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Soundharya09/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Soundharya09/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Soundharya09/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1785,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Soundharya09/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/Soundharya09/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Soundharya09/LeetCode/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Soundharya09/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Soundharya09/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Soundharya09/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1912,6 +1917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Soundharya09/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Soundharya09/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/Soundharya09/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Soundharya09/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Soundharya09/LeetCode/tree/master/1980-find-unique-binary-string) |
