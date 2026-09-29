@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Soundharya09/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Soundharya09/LeetCode/tree/master/0289-game-of-life) |
 | [0307-range-sum-query-mutable](https://github.com/Soundharya09/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Soundharya09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Soundharya09/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Soundharya09/LeetCode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Soundharya09/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Soundharya09/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Soundharya09/LeetCode/tree/master/0396-rotate-function) |
@@ -1799,6 +1801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Soundharya09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Soundharya09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Soundharya09/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Soundharya09/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Soundharya09/LeetCode/tree/master/0463-island-perimeter) |
@@ -2363,4 +2366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Soundharya09/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
