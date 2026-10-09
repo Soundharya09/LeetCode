@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Soundharya09/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soundharya09/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Soundharya09/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Soundharya09/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2488-count-subarrays-with-median-k](https://github.com/Soundharya09/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Soundharya09/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -1648,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/Soundharya09/LeetCode/tree/master/2043-simple-bank-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/Soundharya09/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Soundharya09/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Soundharya09/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3797-design-spreadsheet](https://github.com/Soundharya09/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Queue
@@ -1956,6 +1958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Soundharya09/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Soundharya09/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Soundharya09/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -2038,6 +2041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Soundharya09/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Soundharya09/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Soundharya09/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3479-fruits-into-baskets-iii](https://github.com/Soundharya09/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Soundharya09/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soundharya09/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
