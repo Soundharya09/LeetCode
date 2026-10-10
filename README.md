@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Soundharya09/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Soundharya09/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Soundharya09/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/Soundharya09/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2386-min-max-game](https://github.com/Soundharya09/LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Soundharya09/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2080-range-frequency-queries](https://github.com/Soundharya09/LeetCode/tree/master/2080-range-frequency-queries) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Soundharya09/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Soundharya09/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Soundharya09/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Soundharya09/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Soundharya09/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Soundharya09/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Soundharya09/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Soundharya09/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/Soundharya09/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
@@ -1443,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Soundharya09/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Soundharya09/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Soundharya09/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Soundharya09/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Soundharya09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soundharya09/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/Soundharya09/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -1958,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1912-design-movie-rental-system](https://github.com/Soundharya09/LeetCode/tree/master/1912-design-movie-rental-system) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Soundharya09/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Soundharya09/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Soundharya09/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Soundharya09/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
