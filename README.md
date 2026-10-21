@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1260-shift-2d-grid](https://github.com/Soundharya09/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Soundharya09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1268-search-suggestions-system](https://github.com/Soundharya09/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Soundharya09/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Soundharya09/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Soundharya09/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Soundharya09/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Soundharya09/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/Soundharya09/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Soundharya09/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1242,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Soundharya09/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Soundharya09/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1268-search-suggestions-system](https://github.com/Soundharya09/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Soundharya09/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Soundharya09/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -1380,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Soundharya09/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Soundharya09/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1268-search-suggestions-system](https://github.com/Soundharya09/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Soundharya09/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Soundharya09/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Soundharya09/LeetCode/tree/master/1392-longest-happy-prefix) |
@@ -2006,6 +2010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Soundharya09/LeetCode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Soundharya09/LeetCode/tree/master/1046-last-stone-weight) |
+| [1268-search-suggestions-system](https://github.com/Soundharya09/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Soundharya09/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/Soundharya09/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -2203,6 +2208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Soundharya09/LeetCode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1032-stream-of-characters](https://github.com/Soundharya09/LeetCode/tree/master/1032-stream-of-characters) |
+| [1268-search-suggestions-system](https://github.com/Soundharya09/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Soundharya09/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Soundharya09/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Soundharya09/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
