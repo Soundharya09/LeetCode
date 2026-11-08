@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Soundharya09/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Soundharya09/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Soundharya09/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/Soundharya09/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/Soundharya09/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Soundharya09/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/Soundharya09/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1254-number-of-closed-islands](https://github.com/Soundharya09/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Soundharya09/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Soundharya09/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Soundharya09/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Soundharya09/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1787,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Soundharya09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Soundharya09/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Soundharya09/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Soundharya09/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soundharya09/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Soundharya09/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -1905,6 +1908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Soundharya09/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Soundharya09/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soundharya09/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Soundharya09/LeetCode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1965,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Soundharya09/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Soundharya09/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soundharya09/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Soundharya09/LeetCode/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Soundharya09/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -2339,6 +2344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Soundharya09/LeetCode/tree/master/0547-number-of-provinces) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Soundharya09/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1254-number-of-closed-islands](https://github.com/Soundharya09/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Soundharya09/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Soundharya09/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Soundharya09/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Soundharya09/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
