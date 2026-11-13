@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Soundharya09/LeetCode/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Soundharya09/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Soundharya09/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Soundharya09/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/Soundharya09/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Soundharya09/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soundharya09/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Soundharya09/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Soundharya09/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Soundharya09/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Soundharya09/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Soundharya09/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -1733,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Soundharya09/LeetCode/tree/master/2751-robot-collisions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3174-clear-digits](https://github.com/Soundharya09/LeetCode/tree/master/3174-clear-digits) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Soundharya09/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
 | ------- |
@@ -1780,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soundharya09/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Soundharya09/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Soundharya09/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Soundharya09/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -2155,6 +2159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/Soundharya09/LeetCode/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Soundharya09/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/Soundharya09/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Soundharya09/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Soundharya09/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -2338,6 +2343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Soundharya09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Soundharya09/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Soundharya09/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Soundharya09/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Line Sweep
 |  |
 | ------- |
@@ -2489,6 +2495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Soundharya09/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Soundharya09/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Soundharya09/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Minimax
 |  |
 | ------- |
