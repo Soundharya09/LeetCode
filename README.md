@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Soundharya09/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Soundharya09/LeetCode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Soundharya09/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Soundharya09/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Soundharya09/LeetCode/tree/master/0338-counting-bits) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Soundharya09/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Soundharya09/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Soundharya09/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Soundharya09/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Soundharya09/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Soundharya09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Soundharya09/LeetCode/tree/master/0342-power-of-four) |
@@ -1975,6 +1977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Soundharya09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Soundharya09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Soundharya09/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Soundharya09/LeetCode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Soundharya09/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Soundharya09/LeetCode/tree/master/0399-evaluate-division) |
@@ -2602,10 +2605,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Soundharya09/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Soundharya09/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
 ## Fermat's Little Theorem
 |  |
