@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Soundharya09/LeetCode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Soundharya09/LeetCode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Soundharya09/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Soundharya09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Soundharya09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Soundharya09/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Soundharya09/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Soundharya09/LeetCode/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/Soundharya09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Soundharya09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Soundharya09/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Soundharya09/LeetCode/tree/master/0494-target-sum) |
@@ -2610,6 +2612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Soundharya09/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Soundharya09/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Soundharya09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -2623,4 +2626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Soundharya09/LeetCode/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Soundharya09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
